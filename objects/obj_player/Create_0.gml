@@ -1,0 +1,1 @@
+last_collide_with = pointer_null
